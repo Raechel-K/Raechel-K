@@ -20,7 +20,7 @@
 - 💻 **Passionate Coder** - Always excited to learn new languages and frameworks
 - 🌱 **Growth Mindset** - Believing in continuous learning and improvement
 - 🚀 **Tech Enthusiast** - Interested in software development and problem-solving
-- 📚 **Curious Learner** - Exploring new technologies every day
+- ���� **Curious Learner** - Exploring new technologies every day
 
 ---
 
@@ -77,19 +77,22 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>📱 Portfolio Website</h3>
-      <p>A personal portfolio showcasing my skills, projects, and digital presence.</p>
-      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      <h3>🌾 AgroShield.AI</h3>
+      <p>A smart AI-based project focused on agricultural support and modern farming solutions.</p>
+      <p><strong>Tech:</strong> Python, AI, ML</p>
+      <p><a href="https://github.com/Raechel-K/AgroShield.AI">View Project</a></p>
     </td>
     <td width="33%" align="center">
-      <h3>🧮 Calculator App</h3>
-      <p>A simple calculator built to practice logic, functions, and UI design.</p>
-      <p><strong>Tech:</strong> Java / C++</p>
+      <h3>💬 AI WhatsApp Automation</h3>
+      <p>An automation project designed to streamline WhatsApp-based communication using AI.</p>
+      <p><strong>Tech:</strong> Python, Automation</p>
+      <p><a href="https://github.com/Raechel-K/AI-WhatsApp-Automation-">View Project</a></p>
     </td>
     <td width="33%" align="center">
-      <h3>🎯 Student Management System</h3>
-      <p>A small system for managing student records and basic operations.</p>
-      <p><strong>Tech:</strong> Java, OOP Concepts</p>
+      <h3>🍽️ Restaurant Website</h3>
+      <p>A restaurant landing page built to practice frontend development and design.</p>
+      <p><strong>Tech:</strong> HTML, CSS</p>
+      <p><a href="https://github.com/Raechel-K/Restaurant">View Project</a></p>
     </td>
   </tr>
 </table>
