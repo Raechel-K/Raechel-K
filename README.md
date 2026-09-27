@@ -70,6 +70,34 @@
 
 ---
 
+## 🚀 My Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📱 Portfolio Website</h3>
+      <p>A personal portfolio showcasing my skills, projects, and digital presence.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧮 Calculator App</h3>
+      <p>A simple calculator built to practice logic, functions, and UI design.</p>
+      <p><strong>Tech:</strong> Java / C++</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎯 Student Management System</h3>
+      <p>A small system for managing student records and basic operations.</p>
+      <p><strong>Tech:</strong> Java, OOP Concepts</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🎨 Fun Facts About Me
 
 - 🌟 I believe that **small steps every day lead to big results**
